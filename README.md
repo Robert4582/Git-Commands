@@ -29,6 +29,14 @@ _A list of my commonly used Git commands_
 | `git commit -m "[commit message]"` | Commit changes |
 | `git rm -r [file-name.txt]` | Remove a file (or folder) |
 
+### When changes to .gitignore
+
+| Command | Description |
+| ------- | ----------- |
+| `git rm -r --cached .` | Remove all cached files |
+| `git add .` | Add all new and changed files to the staging area |
+| `git commit` | Commit changes |
+
 ### Branching & Merging
 
 | Command | Description |
