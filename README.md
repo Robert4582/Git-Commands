@@ -34,6 +34,18 @@ _A list of my commonly used Git commands_
 | `git add .` | Add all new and changed files to the staging area |
 | `git commit` | Commit changes |
 
+### When push
+
+| Command | Description |
+| ------- | ----------- |
+| `git pull` | Pull before a push |
+| `git add .` | Add all new and changed files to the staging area |
+| `git commit` | Commit changes |
+| `i` | presss i to make a Commit message |
+| `ESC` | Press Escape when a commit message is made |
+| `:wq` | Type :Wq and enter to exit commit
+| `git push` | Pushes the changes |
+
 ### Branching & Merging
 
 | Command | Description |
